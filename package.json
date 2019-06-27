@@ -1,0 +1,14 @@
+{
+  "name": "hackbot",
+  "version": "1.0.0",
+  "description": "a slackbot for Hack Upstate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Will Guisbond",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
